@@ -1,6 +1,8 @@
 mod rust_variables;
 mod rust_match;
 mod rust_loops;
+mod rust_functions;
+mod rust_strings;
 
 fn main() {
     rust_match::welcome();
@@ -10,6 +12,7 @@ fn main() {
 
     // rust_variables::my_var();
      rust_loops::sia_chandelier();
+
 }
 
 fn salute() {

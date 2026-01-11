@@ -14,6 +14,9 @@ pub fn sia_chandelier (){
     }
     print!("Throw 'em back 'til I lose count.");
 }
+// USEFUL KEYWORS IN LOOPS:
+// break - stops the loop
+// continue - skips a value in the loop
 
 pub fn while_loop() {
     let mut count = 1;
